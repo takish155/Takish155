@@ -28,6 +28,3 @@
       <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" /></td>
     </tr>
 </table>
-
-Discord: https://discord.com/users/325244761768198146 | takish155
-
