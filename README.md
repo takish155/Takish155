@@ -19,7 +19,7 @@
       <th>Programming Languages</th>
       <th>Frameworks & Libraries</th>
       <th>Learning Currently</th>
-      <th>Planned to Learn before graduation</th>
+      <th>Planned to Learn before college graduation</th>
     </tr>
     <tr>
       <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></td>
