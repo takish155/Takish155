@@ -10,21 +10,3 @@
 
 <p>Feel free to explore my repositories and connect with me.</p>
 
-<hr>
-
-<h2>Tech Stack</h2>
-
-<table>
-    <tr>
-      <th>Programming Languages</th>
-      <th>Frameworks & Libraries</th>
-      <th>Learning Currently</th>
-      <th>Planned to Learn before college graduation</th>
-    </tr>
-    <tr>
-      <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></td>
-      <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" /></td>
-      <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" /></td>
-      <td><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" /> <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" /></td>
-    </tr>
-</table>
