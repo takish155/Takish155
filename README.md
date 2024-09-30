@@ -8,4 +8,4 @@
 
 <p>Feel free to explore my repositories and connect with me.</p>
 
-<p>Portfolio Website: <a href="https://www.takish155.dev/" target="_blank">https://www.takish155.com/</a></p>
+<p>Portfolio Website: <a href="https://www.takish155.com/" target="_blank">https://www.takish155.com/</a></p>
