@@ -18,6 +18,8 @@
   <li>Typescript</li>
   <li>Next.js</li>
   <li>Express.js</li>
+  <li>Python</li>
+  <li>Java</li>
 </ul>
 
-<p>Portfolio Website: <a href="https://www.takish155.com/" target="_blank">https://www.takish155.com/</a></p>
+<p>Portfolio Website: <a href="https://takish155.com/" target="_blank">https://www.takish155.com/</a></p>
