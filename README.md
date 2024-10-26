@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Takeshi from the Philippines</h1>
 
-<p>🍙 I currently live in Japan and was born in the Philippines. I'm a passionate programmer.</p>
+<p>🍙 I currently live in Japan I'm a passionate programmer who likes to code on my free time.</p>
 
 <p>🛠️ I'm dedicated to improving my development skills and I want to make website for people to use.</p>
 
