@@ -8,12 +8,12 @@
 
 <p>Feel free to explore my repositories and connect with me.</p>
 
-<h3>Techstack</h3>
+<h4>My Current Techstack</h4>
 <ul>
   <li>HTML, CSS</li>
   <li>Javascript</li>
   <li>PHP</li>
-  <li>React</li>
+  <li>React.js</li>
   <li>Node.js</li>
   <li>Typescript</li>
   <li>Next.js</li>
