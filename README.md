@@ -8,4 +8,16 @@
 
 <p>Feel free to explore my repositories and connect with me.</p>
 
+<h3>Techstack</h3>
+<ul>
+  <li>HTML, CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Typescript</li>
+  <li>Next.js</li>
+  <li>Express.js</li>
+</ul>
+
 <p>Portfolio Website: <a href="https://www.takish155.com/" target="_blank">https://www.takish155.com/</a></p>
