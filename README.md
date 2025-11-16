@@ -21,3 +21,7 @@
 </ul>
 
 <p>🌐 Portfolio Website: <a href="https://takish155.com/" target="_blank">https://www.takish155.com/</a></p>
+
+
+
+<i><strong>P.S</strong> I'm retired programmer and no longer do stuff mentioned above.</i>
